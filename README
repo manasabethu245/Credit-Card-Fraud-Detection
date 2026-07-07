@@ -1,0 +1,32 @@
+# Credit Card Fraud Detection
+
+## Description
+
+Machine Learning project to detect fraudulent credit card transactions.
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Imbalanced-learn
+- Matplotlib
+- Seaborn
+
+## Model
+
+Logistic Regression
+
+## Features
+
+- Data preprocessing
+- Missing value checking
+- Class balancing using SMOTE
+- Fraud prediction
+- Confusion Matrix
+- ROC-AUC Score
+
+## Dataset
+
+creditcard.csv
